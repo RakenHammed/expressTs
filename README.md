@@ -1,1 +1,3 @@
-chat-backend
+npm install
+tsc
+npm start
